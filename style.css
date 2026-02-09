@@ -43,9 +43,11 @@ body {
 .container h1 {
     text-align: center;
     color: hsl(220, 20%, 15%);
+    font-size: 1.5em;
 }
 
 .container p {
     text-align: center;
     color: hsl(220, 15%, 55%);
+    font-size: 1.1em;
 }
